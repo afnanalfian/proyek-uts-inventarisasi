@@ -1,0 +1,7 @@
+{
+    "member" : 1,
+    "book" : 1,
+    "tanggalPinjam": "2023-09-25",
+    "batasPengembalian": "2023-09-28",
+    "status": "Sedang Dipinjam"
+}

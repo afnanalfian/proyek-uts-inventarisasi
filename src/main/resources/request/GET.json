@@ -1,0 +1,6 @@
+{
+    "getAll" : "http://localhost:8080/borrowing", 
+    "searchByStatus" : "http://localhost:8080/borrowing/search/searchByStatusContaining?keyword=ya",
+    "getById" : "http://localhost:8080/borrowing/1",
+    "catatan" : "aslinya bukan di json, tapi taruh di link di bagian link aja"
+}
